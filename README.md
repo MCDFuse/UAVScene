@@ -3,7 +3,7 @@ MCDFuse: Visible and infrared image fusion via Mamba-CNN for Enhanced UAV Percep
 
 # UAVScene Dataset
 ## 📁 Dataset Structure
-The dataset is organized as follows:
+The dataset is organized as follows:  <br>
 UAVScene/                                                                     <br>
 ├── images/   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              # Contains visible and infrared image folders   <br>
 │ ├── vi/     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                # Visible images                                <br>
@@ -38,7 +38,6 @@ UAVScene/                                                                     <b
 > - The `labels/` folder includes annotations for visible, infrared, and fused modalities.  
 > - All annotations are in YOLO format and share filenames by image ID.
 
----
 
 ## 📦 Dataset Availability
 

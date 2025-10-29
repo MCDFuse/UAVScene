@@ -28,9 +28,6 @@ UAVScene/                                                                     <b
 │ │ ├── 1.txt                                                                <br>
 │ │ ├── 2.txt                                                                <br>
 │ └── ...                                                                    <br>
-├── split/          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         # Dataset split files                           <br>
-│ ├── train.txt     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       # Training image IDs                            <br>
-│ └── test.txt      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        # Test image IDs                                <br>
 └── README.txt        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   # Additional dataset usage instructions         <be>
 
 
@@ -42,6 +39,9 @@ UAVScene/                                                                     <b
 
 ## 📦 Dataset Availability
 
-The **UAVSense** dataset will be made publicly available after the official publication of the corresponding paper.  
-Until then, access can be granted upon reasonable request to the corresponding author.
+The **UAVSense** dataset includes 300 publicly available example pairs. The data can be downloaded from the following links:
 
+- [Google Drive](https://drive.google.com/drive/folders/1RQ_i2_ZTRqCnNI4rOGPE0JvkvoNIdJLN?usp=sharing)  
+- [Baidu Netdisk](https://pan.baidu.com/s/1ERDI1Wv4l95BPzvzVr3r_g) (Extraction code: dxpk)
+
+For access to the full dataset, please contact the corresponding author with a reasonable request.
